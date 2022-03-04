@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(252, 253, 197);
+}
+.d1{
+    width: 800px;
+    height: 220px;
+    background-color: white;
+    border: 3px solid black;
+    margin: 20px;
+    
+ 
+}
+.d2{
+    width: 800px;
+    height: 220px;
+    background-color: white;
+    border: 3px solid black;
+    margin: 20px;
+
+}
+.dsq{
+    border: 3px dashed red;
+   
+}
+.d3{
+    width: 800px;
+    height: 220px;
+    background-color: white;
+    color: red;
+    border: 3px dashed red;
+    margin: 20px;
+}
+.col1{
+   
+    background-color: salmon;
+    font-size: large;
+    display: inline;
+}
+.col2{
+    
+    background-color: yellow;
+    font-size: large;
+    display: inline;
+}
+.p2{
+    display: inline;
+}
+.p1{
+    display: inline;
+}
+.p3{
+    display: inline;
+}

@@ -1,0 +1,22 @@
+
+.par1{
+    color: blue;
+}
+.link{
+    color: rgb(255, 208, 0);
+}
+.link2{
+    color: brown;
+    background-color:rgb(255, 255, 98) ;
+}
+.link3{
+    color: red;
+
+}
+.list{
+    color: blue;
+}
+.list2{
+    color: blue;
+    list-style:none ;
+}

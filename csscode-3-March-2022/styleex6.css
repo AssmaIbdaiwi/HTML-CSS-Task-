@@ -1,0 +1,18 @@
+.square1{
+width: 50px;
+height: 50px;
+background-color: yellow;
+border: 1px solid;
+display: inline-block;
+margin-bottom:  25px;
+
+
+}
+.square2{
+    width: 50px;
+    height: 50px;
+    background-color: green;
+    border: 1px solid;
+    display: inline-block;
+   margin-top:50px;
+    }
