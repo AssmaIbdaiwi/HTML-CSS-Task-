@@ -1,0 +1,32 @@
+div {
+      margin-left: 50px;
+    position: relative;
+    width: 100px;
+    height: 100px;
+    border-radius: 10%;
+   animation:sq 10s ;
+   animation-iteration-count: infinite;
+
+}
+
+@keyframes sq {
+0%  {top: 0px; 
+      left: 0px;  background-image:linear-gradient(to right, rgb(0, 255, 136) , rgb(0, 255, 242));}
+      
+
+25%  {top: 0px; 
+      left: 300px; background-image:linear-gradient(to right, rgb(0, 255, 136) , rgb(0, 255, 242));}
+
+
+50%  {top: 300px;
+     left: 300px;  background-image:linear-gradient(rgb(8, 8, 172) , rgb(3, 124, 204));}
+     
+
+75%  {top: 300px;
+      left: 0px;background-image:linear-gradient(orange , rgb(204, 83, 3));}
+   
+100% {top: 0px;
+     left: 0px; 
+     background-image:linear-gradient(rgb(233, 155, 103) , rgb(229, 119, 233));}
+   
+}

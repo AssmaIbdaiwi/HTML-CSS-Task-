@@ -1,0 +1,65 @@
+.bl{
+    width: 50px;
+   height: 100px;
+  background: black;
+  border-radius: 10% ;
+  margin-left: 50px;
+  padding-top: 10px;
+
+
+}
+.c1{ 
+    width: 25px;
+    height: 25px;
+    background: gray;
+    border-radius: 50% ;
+    margin-left: 15px;
+    margin-top: 5px;
+    animation-name: cc1;
+    animation-duration: 1s;
+    animation-delay: 0s;
+	
+
+
+}
+    .c2{ 
+        width: 25px;
+        height: 25px;
+        background: gray;
+        border-radius: 50% ;
+        margin-left: 15px;
+        margin-top: 5px;
+        animation-name: cc2;
+        animation-duration: 1s;
+        animation-delay: 2s;
+      
+
+    }
+    .c3{ 
+        width: 25px;
+        height: 25px;
+        background: gray;
+        border-radius: 50% ;
+        margin-left: 15px;
+        margin-top: 5px;
+        animation-name: cc3;
+        animation-duration: 1s;
+        animation-delay: 3s;
+  
+
+    }
+    @keyframes cc1{
+        from {background: grey;}
+        to { background: red;}
+       
+    }
+    @keyframes cc2{
+        from {background: grey;}
+        to { background: orange;}
+     
+    } 
+    @keyframes cc3{
+      from   {background: grey;}
+       to  { background: green;}
+    
+    }
