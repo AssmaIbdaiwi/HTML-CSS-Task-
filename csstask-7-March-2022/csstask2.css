@@ -1,0 +1,75 @@
+.container{
+    background-color: rgb(116, 116, 9);
+    display: flex;
+    flex-wrap: wrap;
+    width:1490px;
+    height:725px;
+    text-align: center;
+    font-size: 150px;
+    padding: 10px;
+    margin-top: 40px;
+
+}
+
+.color1{
+    background-color: green;
+    color: white;
+    height:241.6px;
+    width: 372.5px;
+   
+
+}
+.color2{
+    background-color: yellow;
+    color: white;
+    height:241.6px;
+    width: 372.5px;
+}
+.color3{
+    background-color: purple;
+    color: white;
+    height:241.6px;
+    width: 372.5px;
+}
+.color4{
+    background-color: lightgrey;
+    color: white;
+    height:241.6px;
+    width: 372.5px;
+}
+.color5{
+    background-color: blue;
+    color: white;
+    height:241.6px;
+    width: 372.5px;
+}
+.color6{
+    background-color: orange;
+    color: white;
+    height:241.6px;
+    width: 372.5px;
+}
+.color7{
+    background-color: pink;
+    color: white;
+    height:241.6px;
+    width: 372.5px;
+}
+.color8{
+    background-color: red;
+    color: white;
+    height:241.6px;
+    width: 372.5px;
+}
+.color9{
+    background-color: rgb(100, 6, 6);
+    color: white;
+    height:241.6px;
+    width: 372.5px;
+}
+.color10{
+    background-color: rgb(0, 247, 255);
+    color: white;
+    height:241.6px;
+    width: 372.5px;
+}

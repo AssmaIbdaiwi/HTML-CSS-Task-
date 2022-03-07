@@ -1,0 +1,22 @@
+.color1{
+    background-color: orange;
+    color: white;
+    width:750px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.color2{
+    background-color: blue;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:750px;
+}
+.container{
+    display: flex;
+    width:1490px;
+    height:750px;
+    font-size: 100px;   
+}

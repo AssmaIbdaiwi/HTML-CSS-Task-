@@ -1,0 +1,57 @@
+.container{
+    background-color: rgb(116, 116, 9);
+    display: flex;
+    width:1490px;
+    height:725px;
+    text-align: center;
+    font-size: 50px;
+    padding: 10px;
+
+}
+
+.color1{
+    background-color: green;
+    color: white;
+    width:166.6px;
+
+}
+.color2{
+    background-color: yellow;
+    color: white;
+    width:166.6px;
+}
+.color3{
+    background-color: purple;
+    color: white;
+    width:166.6px;
+}
+.color4{
+    background-color: lightgrey;
+    color: white;
+    width:166.6px;
+}
+.color5{
+    background-color: blue;
+    color: white;
+    width:166.6px;
+}
+.color6{
+    background-color: orange;
+    color: white;
+    width:166.6px;
+}
+.color7{
+    background-color: pink;
+    color: white;
+    width:166.6px;
+}
+.color8{
+    background-color: red;
+    color: white;
+    width:166.6px;
+}
+.color9{
+    background-color: rgb(100, 6, 6);
+    color: white;
+    width:166.6px;
+}
